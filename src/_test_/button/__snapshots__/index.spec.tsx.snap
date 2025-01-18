@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button should render the button and match snapshot 1`] = `
+<div>
+  <button
+    class="px-5 py-2 rounded-xl w-full bg-red-500"
+  >
+    Click
+  </button>
+</div>
+`;
